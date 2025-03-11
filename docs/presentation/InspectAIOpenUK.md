@@ -29,3 +29,7 @@
 - Up to date withd dependencies
 - 813 stars in Github
 - Not the most exhaustive security tool but it also evaluates performance
+
+### Errors
+
+- Failed with phi-2 `2025-03-11T18-50-22+00-00_agentharm_3DH86fPyyzL7zjzexB2XsY.eval`
